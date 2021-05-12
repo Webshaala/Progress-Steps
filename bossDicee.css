@@ -1,0 +1,100 @@
+body {
+  background-color: #6e797e;
+  color: #29303b;
+  font-family: Helvetica, sans-serif;
+  margin: 0px 8px;
+  text-align: center;
+}
+.havingTrouble {
+  width: auto;
+  font-size: 5rem;
+  font-family: Helvetica, sans-serif;
+  margin: 20px;
+  text-shadow: 5px 0 #232931;
+}
+button {
+  cursor: pointer;
+  background-color: #ffa723;
+  color: #132c33;
+  font-size: 1rem;
+  padding: 8px 12px;
+  letter-spacing: 1.2px;
+  width: auto;
+}
+h3 {
+  display: inline-block;
+  color: #ffa723;
+  color: #132c33;
+  color: #184d47;
+  font-size: 2rem;
+  margin: 20px 95px 30px 110px;
+  width: auto;
+}
+/* #dice{
+  border: 2px solid red;
+  margin-bottom: -20px;
+  display: inline-block;
+}
+.dicebox1 {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  display: inline-block;
+}
+.dicebox2 {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  display: inline-block;
+}
+.dicebox3 {
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+  display: inline-block;
+}
+.dicebox4 {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  display: inline-block;
+}
+.dicebox5 {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  display: inline-block;
+}
+.dicebox6 {
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+  display: inline-block;
+} */
+hr {
+  display: inline-block;
+  width: 40%;
+}
+.diceimage6_1 {
+  height: 20%;
+  width:  20%;
+  display: inline-block;
+  margin-right: 30px;
+  
+}
+.diceimage6_2 {
+  height: 20%;
+  width:  20%;
+  display: inline-block;
+  margin-left: 30px;
+}
+footer {
+  color: #23292b;
+  width: auto;
+  margin: 2px 20px 8px 0px;
+  padding: 2px 2px 0px 0px;
+}
+#Nitesh {
+  padding: 20px 2px 2px 0px;
+}
+
